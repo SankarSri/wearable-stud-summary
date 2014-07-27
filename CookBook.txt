@@ -1,0 +1,11 @@
+Data Dictionary : Samsung Wearable Study Summary Tidy Dataset
+
+Subject : Indicates the number of the subject participated in the study
+	  Range from 1 to 30, as the study containg 30 subjects
+
+Activity : Indicates the activity type, which can be LAYING,SITTING,STANDING,WALKING,WALKING_DOWNSTAIRS,WALKING_UPSTAIRS
+
+The average of mean and standard deviation of various measured observed during the study are indicated per each activity and each subject.
+There are 33 measures observed during the study and each of these have an average of mean and standard deviation per each activity and each subject.
+
+The measure names are descriptive and also indicate if it is Mean or Standard Deviation
